@@ -1,6 +1,10 @@
 # Proguesst
 このリポジトリは**製作途中**（WIP）です。
 ![proguesst](images/proguesst.webp)
+
+# 特徴
+プログラミング × キャラクターゲーム × ???
+
 # 構成
 - バックエンド：go
 - DB：postgres
